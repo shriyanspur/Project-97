@@ -33,4 +33,5 @@ while chances <= 5:
     if chances <= 0:
       print('You Failed to Guess the Number, You Lose !!!')
       print('The Number was: ', answer)
+      print()
       break
