@@ -6,7 +6,7 @@ print()
 print('Guess the number (between 1 and 10)')
 print()
 
-answer = random.randint(1, 1)
+answer = random.randint(1, 10)
 chances = 5
 guess = int(input('Enter your guess: '))
 
